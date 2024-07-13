@@ -1,0 +1,18 @@
+.board-row{
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+}
+
+.board-container{
+  margin: 20px;
+}
+
+.square{
+  display: flex;
+  height: 100px;
+  width: 100%;
+  border: 1px solid;
+  justify-content: center;
+  align-items: center;
+}
